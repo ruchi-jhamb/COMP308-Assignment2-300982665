@@ -31,6 +31,7 @@
   "author": "Ruchi",
   "license": "ISC",
   "devDependencies": {
+    "@angular/cli": "^7.3.8",
     "@types/body-parser": "^1.17.0",
     "@types/connect-flash": "0.0.34",
     "@types/cookie-parser": "^1.4.1",
